@@ -44,9 +44,9 @@
     "lint": "eslint --ext .ts,.js src/",
     "lint:fix": "eslint --fix --ext .ts,.js src/",
     "lint:report": "eslint --ext .ts,.js --output-file eslint_report.json --format json src/",
-    "preinstall": "npx -y only-allow pnpm",
-    "prepare": "pnpm run build",
-    "prepublishOnly": "pnpm test && pnpm run lint"
+    "preinstall": "npx -y only-allow bun",
+    "prepare": "bun run build",
+    "prepublishOnly": "bun test && bun run lint"
   },
   "devDependencies": {
     "@nabla/vite-plugin-eslint": "^2.0.6",
@@ -96,7 +96,6 @@
     "iso-639-1": "^3.1.5",
     "json5": "^2.2.3",
     "nanoid": "^3.3.11",
-    "node-fetch": "^3.3.2",
     "set-cookie-parser": "^2.7.1",
     "unpacker": "^1.0.1"
   }
