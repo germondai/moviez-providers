@@ -17,6 +17,7 @@
         "nanoid": "^3.3.11",
         "set-cookie-parser": "^2.7.1",
         "unpacker": "^1.0.1",
+        "wyzie-lib": "^2.2.7",
       },
       "devDependencies": {
         "@nabla/vite-plugin-eslint": "^2.0.6",
@@ -1311,6 +1312,8 @@
     "wrappy": ["wrappy@1.0.2", "", {}, "sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ=="],
 
     "ws": ["ws@8.19.0", "", { "peerDependencies": { "bufferutil": "^4.0.1", "utf-8-validate": ">=5.0.2" }, "optionalPeers": ["bufferutil", "utf-8-validate"] }, "sha512-blAT2mjOEIi0ZzruJfIhb3nps74PRWTCz1IjglWEEpQl5XS/UNama6u2/rjFkDDouqr4L67ry+1aGIALViWjDg=="],
+
+    "wyzie-lib": ["wyzie-lib@2.2.7", "", {}, "sha512-C+4B7cEG4G3h/lu2HvDsKFczNps5BRdXUganiJAYbkWZO4I3xdAzPH65vBZUmPOSRgUgD0CGdEu7YzAtPWWouQ=="],
 
     "y18n": ["y18n@5.0.8", "", {}, "sha512-0pfFzegeDWJHJIAmTLRP2DwHjdF5s7jo9tuztdQxAhINCdvS+3nGINqPd00AphqJR/0LhANUS6/+7SCb98YOfA=="],
 

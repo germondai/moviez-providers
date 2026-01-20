@@ -97,6 +97,7 @@
     "json5": "^2.2.3",
     "nanoid": "^3.3.11",
     "set-cookie-parser": "^2.7.1",
-    "unpacker": "^1.0.1"
+    "unpacker": "^1.0.1",
+    "wyzie-lib": "^2.2.7"
   }
 }
