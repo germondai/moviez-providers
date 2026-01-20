@@ -2,10 +2,10 @@
 
 ## Supported Versions
 
-The Moviez maintainers only support the latest version of Moviez published at https://pstream.mov.
+The moviez maintainers only support the latest version of moviez published at https://pstream.mov.
 This published version is equivalent to the master branch.
 
-Support is not provided for any forks or mirrors of Moviez.
+Support is not provided for any forks or mirrors of moviez.
 
 ## Reporting a Vulnerability
 
